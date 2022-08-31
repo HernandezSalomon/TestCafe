@@ -1,11 +1,11 @@
 {
-    "url":"https://conductor.test.icondigitalplatform.dev/",
+    "url":"[URK]",
     "shortWait": 1000,
     "mediumWait": 5000,
     "timeout": 5000,
     "longWait": 10000,
     "users": {
-        "username":"salomontesting+admn@gmail.com",
-        "password":"1234asdF@"
+        "username":"[username]",
+        "password":"[password]"
 }
 }
